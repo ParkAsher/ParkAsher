@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Mincho%20Park&desc=Front%20end,%20Back%20end%20Developer&descSize=30&descAlign=70&fontSize=90&fontAlign=35&fontAlignY=35&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Asher%20Park&desc=Front%20end,%20Back%20end%20Developer&descSize=30&descAlign=70&fontSize=90&fontAlign=35&fontAlignY=35&animation=fadeIn)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminchopark&count_bg=%231DE3B7&title_bg=%23070707&icon=github.svg&icon_color=%23F5EDED&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 🛠 Tech Stack 🛠
