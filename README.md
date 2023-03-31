@@ -1,12 +1,18 @@
 <div align="center">
+
   <h2>🎉 Welcome! Asher's GitHub </h2>
-  궁금한 것을 참지 못하는 개발자 🔍
-</div>
+  
+  궁금한 것을 참지 못하는 개발자 🔍 <br>
 
-<div align="center">
+  <div align="center">
+    
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkAsher&count_bg=%23A1D9BC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
 
+  </div>
+  
+</div>
+  
+  
 ## 📢 About me
 - contact : devasherpark@gmail.com
 - blog : https://velog.io/@asherpark
@@ -32,6 +38,9 @@
 ### Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 
+
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkAsher&show_icons=true&theme=aura)
-</div>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkAsher&show_icons=true&theme=aura)
+  
+ </div>
