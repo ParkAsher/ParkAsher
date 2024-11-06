@@ -15,7 +15,7 @@
   
 ## 📢 About me
 - contact : devasherpark@gmail.com
-- blog : https://velog.io/@asherpark
+- blog : https://www.asherdocs.com/
 
 ## 🛠 Stack
 ### Language
